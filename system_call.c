@@ -12,9 +12,9 @@
 #include <stdio.h>
 
 /**
- * 
- *
- *
+ * démarre le processus 1 puis attends 10sec
+ * démarre le processus 3  puis attends 5 sec
+ * démarre le processus 5 puis affiche terminé sur le terminal
  *
  * @return     0 
  */
